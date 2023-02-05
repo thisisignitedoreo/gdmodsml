@@ -1,0 +1,322 @@
+[
+	{
+		"name": "QuickLDR",
+		"author": "HJfod",
+		"description": "Simple mod loader",
+		"version": "1.1",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/859008315413626920/quickldr-v1.1.zip",
+		"tags": ["required"]
+	},
+	{
+		"name": "MinHook",
+		"author": "?",
+		"description": "Most mods require this file to work, place it in the same place where your GD executable is located.",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/856484662028795924/minhook.x32.dll",
+		"tags": ["required"]
+	},
+    {
+		"name": "BetterEdit",
+		"author": "HJfod",
+		"description": "Adds a ton of useful features to the editor.",
+		"version": "4.0.5",
+		"download_link": "https://github.com/HJfod/BetterEdit/releases/download/v4.0.5/BetterEdit-v4.0.5.zip",
+		"tags": ["editor", "big"]
+	},
+	{
+		"name": "GDShare",
+		"author": "HJfod",
+		"description": "Makes transferring levels effortlessly easy via files, and supports NONG songs too",
+		"version": "0.3.4",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/1042204161774731336/GDShare-v0.3.4.zip",
+		"tags": ["collab-hosting"]
+	},
+	{
+		"name": "Song Search",
+		"author": "matcool",
+		"description": "Adds a search bar to the saved songs menu.",
+		"version": "",
+		"download_link": "https://github.com/matcool/small-gd-mods/releases/download/mods/song-search.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "Scroll Any Input",
+		"author": "HJfod",
+		"description": "Allows you to scroll on any numerical input to increase/decrease it.",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/879435504653840424/879435852630085651/ScrollAnyInput-v1.1.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "GD Guidelines",
+		"author": "matcool",
+		"description": "A Geometry Dash tool that adds guidelines to your last created level based on song BPM.",
+		"version": "",
+		"download_link": "https://github.com/LoL123413/GD-Guidelines/releases/latest",
+		"tags": ["editor", "qol"]
+	},
+	{
+		"name": "Abbreviated Labels",
+		"author": "iAndy",
+		"description": "Shortens the number amount of downloads and likes on the level menus.",
+		"version": "",
+		"download_link": "https://github.com/iAndyHD3/gd-mods/releases/download/v.1.0.0/abbreviated-labels.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "Remove Endscreen",
+		"author": "iAndy",
+		"description": "Removes the endscreen when finishing a level. ",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/822518226307121202/1040980119679946833/remove-endscreen.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "TextureLDR",
+		"author": "poweredbypie",
+		"description": "Mod that allows easy switching between texture packs.",
+		"version": "2.0a",
+		"download_link": "https://github.com/poweredbypie/textureldr/releases/download/v2.0a/textureldr.dll",
+		"tags": ["qol", "texture-packs"]
+	},
+	{
+		"name": "Icon Kit Saver",
+		"author": "HJfod",
+		"description": "Allows you to save/load icon kits",
+		"version": "0.42",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/846805633390346240/IconSave-v0.42.zip",
+		"tags": ["qol"]
+	},
+	{
+		"name": "Volume Control",
+		"author": "HJfod",
+		"description": "Allows you to alt + scroll to change the volume level",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/869327712467185714/VolumeControl.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "BetterInfo",
+		"author": "Cvolton",
+		"description": "Adds a lot of extra info to the game",
+		"version": "2.1.0",
+		"download_link": "https://github.com/Cvolton/betterinfo-wrapper/releases/download/v2.1.0/betterinfo-wrapper.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "Sai Mod Pack",
+		"author": "Sai",
+		"description": "Adds the ability to add more icons, custom player particles, 2.2 color select and custom menu colors!",
+		"version": "1.5",
+		"download_link": "https://www.mediafire.com/file/07jh86czbpf9dtm/Sai_Mod_Pack_-_v1.5.zip/file",
+		"tags": ["gdps", "big"]
+	},
+	{
+		"name": "Run Info",
+		"author": "matcool",
+		"description": "Displays your run information while in practice mode/with a startpos.",
+		"version": "",
+		"download_link": "https://github.com/matcool/small-gd-mods/releases/download/mods/run-info.dll",
+		"tags": ["qol", "mh-recomended"]
+	},
+	{
+		"name": "Level Info Settings",
+		"author": "Figment",
+		"description": "Displays the settings icon from the main menu in the level menus.",
+		"version": "",
+		"download_link": "https://github.com/FigmentBoy/LevelInfoSettings/releases/download/v1/SettingsInLayer.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "Every Key Jump",
+		"author": "matcool",
+		"description": "Allows you to use any key to jump. (Incompatible with some mods)",
+		"version": "",
+		"download_link": "https://github.com/matcool/small-gd-mods/releases/download/mods/every-key-jumps.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "Scene Switcher",
+		"author": "HJfod",
+		"description": "Lets you switch between scenes quickly by holding Caps Lock",
+		"version": "1.1",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/898684171503939584/SceneSwitcher-v1.1.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "Custom Splash Screen Messages",
+		"author": "",
+		"description": "Allows you to have custom splash screen messages",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/874668273956974682/CustomSplash.dll",
+		"tags": ["fun"]
+	},
+	{
+		"name": "ScreenSelector",
+		"author": "cgytrus",
+		"description": "Adds the ability to put GD on a different monitor and adds borderless fullscreen",
+		"version": "1.2.0",
+		"download_link": "https://github.com/cgytrus/ScreenSelector/releases/download/v1.2.0/ScreenSelector.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "FadeMusicOnDeath",
+		"author": "cgytrus",
+		"description": "Makes the music slow down when you crash, instead of a full stop.",
+		"version": "1.1.1",
+		"download_link": "https://github.com/cgytrus/FadeMusicOnDeath/releases/download/v1.1.1/FadeMusicOnDeath.dll",
+		"tags": ["fun"]
+	},
+	{
+		"name": "Infinite Mode",
+		"author": "",
+		"description": "Play your way through a series of levels that get aggressively harder",
+		"version": "",
+		"download_link": "https://github.com/decoder0007/Infinite-Mode/releases",
+		"tags": ["fun"]
+	},
+	{
+		"name": "Crash Logger",
+		"author": "matcool",
+		"description": "Generates a crash log file when the game crashes.",
+		"version": "",
+		"download_link": "https://github.com/matcool/small-gd-mods/releases/download/mods/crash-logger.dll",
+		"tags": ["qol", "mh-included"]
+	},
+	{
+		"name": "NONG Song Downloader",
+		"author": "paroxysms",
+		"description": "Makes downloading NONG songs easy and efficient",
+		"version": "2.2",
+		"download_link": "https://github.com/paroxysms/nong-downloader-extension/releases/download/v2.2/nong-installer_2_2.exe",
+		"tags": ["qol", "mh-required"]
+	},
+	{
+		"name": "UI Recolor",
+		"author": "Ikszyon",
+		"description": "Lets you customize many of GD's hard-coded colors",
+		"version": "1.0",
+		"download_link": "https://github.com/Ikszyon/UI-Recolor/releases/download/v1.0/uirecolor.dll",
+		"tags": ["personalization", "mh-required"]
+	},
+	{
+		"name": "MegaHack Recolor",
+		"author": "Ikszyon",
+		"description": "Lets you customise the default purple colour in MegaHack v7's GUI\nNeeds to be loaded with quickldr!",
+		"version": "1.2",
+		"download_link": "https://github.com/Ikszyon/MegaHack-Recolor/releases/download/v1.2/MegaHack-Recolor.dll",
+		"tags": ["personalization", "mh-required"]
+	},
+	{
+		"name": "FutureDash",
+		"author": "MikaKC",
+		"description": "Clickable badge icons and other features.",
+		"version": "1.0",
+		"download_link": "https://github.com/MikaKC/FutureDash-Geode/releases/download/v1/FutureDash.geode",
+		"tags": ["qol", "geode"]
+	},
+	{
+		"name": "Bonk",
+		"author": "cgytrus",
+		"description": "Plays a bonk sound whenever you bonk your head against a solid object",
+		"version": "1.0.1",
+		"download_link": "https://github.com/cgytrus/bonk/releases/tag/v1.0.1",
+		"tags": ["fun"]
+	},
+	{
+		"name": "Crystal Client",
+		"author": "ninXout",
+		"description": "The first MacOS mod menu ever (for Geode) with 80+ mods, a WIP bot coming soon.",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/998959205379752017/1056629383902789652/CrystalClient.geode",
+		"tags": ["cheat-client", "geode", "mac-os"]
+	},
+	{
+		"name": "SoundEffects",
+		"author": "iAndy",
+		"description": "A mod that adds sound effects to gameplay events.",
+		"version": "0.0.5",
+		"download_link": "https://github.com/iAndyHD3/SoundEffects/releases/download/v.0.0.5/SoundEffects.dll",
+		"tags": ["fun"]
+	},
+	{
+		"name": "Timestamp Fix",
+		"author": "matcool",
+		"description": "Fixes uploaded and updated always being \"NA Ago\" on the level info popup",
+		"version": "",
+		"download_link": "https://github.com/matcool/small-gd-mods/releases/download/mods/timestamp-fix.dll",
+		"tags": ["fix"]
+	},
+	{
+		"name": "Alt Tab Fix",
+		"author": "HJfod",
+		"description": "Fixes the game thinking that you are still holding alt when you initially alt-tab into the game",
+		"version": "1.0",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/883648104442769428/AltTabFix-v1.0.dll",
+		"tags": ["fix"]
+	},
+	{
+		"name": "Invisible Dual Bugfix",
+		"author": "HJfod",
+		"description": "Fixes the other icon being invisible while in a dual",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/832728278539829248/888963223435485215/invisible-dual-bugfix.dll",
+		"tags": ["fix"]
+	},
+	{
+		"name": "SmoothParticles",
+		"author": "cgytrus",
+		"description": "Makes the game feel a bit smoother by interpolating particle spawn positions between frames",
+		"version": "1.0.1",
+		"download_link": "https://github.com/cgytrus/SmoothParticles/releases/download/v1.0.1/SmoothParticles.dll",
+		"tags": ["qol"]
+	},
+	{
+		"name": "GeometryCache",
+		"author": "cgytrus",
+		"description": "Improves loading performance by using QOI image compression instead of PNG",
+		"version": "1.0.0",
+		"download_link": "https://github.com/cgytrus/GeometryCache/releases/download/v1.0.0/GeometryCache.dll",
+		"tags": ["fix"]
+	},
+	{
+		"name": "GDAntiAliasing",
+		"author": "IliasHDZ",
+		"description": "Eliminates jaggies that appear in sharp objects in GD",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/837026406282035300/930888036672237698/GDAntiAliasing.dll",
+		"tags": ["fix"]
+	},
+	{
+		"name": "\"Low\" Capacity Fix",
+		"author": "Cvolton",
+		"description": "Fixes an issue with an optimization fix that RobTop messed up during the development.",
+		"version": "1.0.1",
+		"download_link": "https://github.com/Cvolton/best-epic-gd-mods/releases/download/more-button-v1.0.2/capacity-fix.dll",
+		"tags": ["fix"]
+	},
+	{
+		"name": "Clipboard Fix",
+		"author": "adaf",
+		"description": "Fixes not being able to copy the level ID under level comments",
+		"version": "1.0",
+		"download_link": "https://github.com/adafcaefc/GDClipboardFix/releases/download/v1/GDClipboardFix.dll",
+		"tags": ["fix", "mh-included"]
+	},
+	{
+		"name": "Checkpoint Fix",
+		"author": "Figment",
+		"description": "Fixes momentum with checkpoints, made extremely accurate in the MH Beta",
+		"version": "1.0",
+		"download_link": "https://github.com/FigmentBoy/Checkpoint-Fix/releases/download/v1/CheckpointFix.dll",
+		"tags": ["fix", "mh-included"]
+	},
+	{
+		"name": "Orb Fix",
+		"author": "matcool",
+		"description": "Fixes orbs not being pressed in practice mode, only useful for zBot as most bots have it included",
+		"version": "",
+		"download_link": "https://cdn.discordapp.com/attachments/898312475127201815/999680898331054140/mats-orb-fix.dll",
+		"tags": ["fix", "mh-included"]
+	}
+]
