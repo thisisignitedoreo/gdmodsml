@@ -1,4 +1,4 @@
-# GDTP.ML
+# GDMODS.ML
 
 ## Warning
 This website is still WIP, dont expect anything serious, ok?
